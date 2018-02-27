@@ -1,6 +1,7 @@
 # Springboard supplementary materials
 
-<i class="fab fa-twitter"></i> [@rrherr](https://twitter.com/rrherr)
+<i class="fab fa-twitter"></i> [@rrherr](https://twitter.com/rrherr)  
+<i class="fas fa-envelope"></i> [rrherr@gmail.com](mailto:rrherr@gmail.com)
 
 ## Data sources
 
