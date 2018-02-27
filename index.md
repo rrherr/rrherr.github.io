@@ -1,5 +1,7 @@
 # Springboard supplementary materials
 
+[Notebook](Let's%20Make%20a%20Banjo%20Grammar%20-%20Examples%20for%20CFP.ipynb)
+
 <i class="fab fa-twitter"></i> [@rrherr](https://twitter.com/rrherr)  
 <i class="fas fa-envelope"></i> [rrherr@gmail.com](mailto:rrherr@gmail.com)
 
