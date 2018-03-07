@@ -12,7 +12,7 @@ I completed fast.ai Deep Learning Part 1 as an International Fellowship particip
 
 ---
  
-## Bio 2: from State Farm, 2015
+## Bio 2: from State Farm, early 2016
 
 Over the past 8 years at State Farm, I’ve worked in both technical & business roles, in several departments: SR, Systems, Innovation, EIS, and L&D. Along the way, I’ve found a few niches:
 
@@ -82,3 +82,6 @@ As an individual contributor:
 - Forecasted call volume in the **Customer Care Center**, to optimize staffing and scheduling and meet service level goals.
 - Automated processing to fix skewed satellite images from **catastrophe claims**, to estimate damages using a deep learning model.
 - Tech skills: **Data visualization** with Python, D3.js, and Excel. **Analytics and statistical modeling** with Python (scikit-learn and pandas). **Big data** with Hadoop and Spark.
+
+---
+
