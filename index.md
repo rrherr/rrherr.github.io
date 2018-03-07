@@ -1,6 +1,6 @@
 # Ryan Herr
 
-## Bio 1: from Fast.ai application
+## Bio #1, from Fast.ai application
 
 Data scientist in the insurance industry. 3 years experience doing data wrangling, exploratory data analysis, visualization, and machine learning in Python. 20+ years playing with code in a variety of languages.
 
@@ -12,7 +12,7 @@ I completed fast.ai Deep Learning Part 1 as an International Fellowship particip
 
 ---
  
-## Bio 2: from State Farm, early 2016
+## Bio #2, from State Farm, early 2016
 
 Over the past 8 years at State Farm, I’ve worked in both technical & business roles, in several departments: SR, Systems, Innovation, EIS, and L&D. Along the way, I’ve found a few niches:
 
@@ -38,7 +38,7 @@ D3 is generally used to produce a final product, but for more exploratory works-
 
 ---
 
-## Bio 3: from most recent performance review & resumes
+## Bio #3, from most recent performance review & resumes
 
 ### Data Scientist, COUNTRY Financial
 
