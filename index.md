@@ -40,7 +40,7 @@ D3 is generally used to produce a final product, but for more exploratory works-
 
 ## Bio 3: from most recent performance review and resumes
 
-#### Data Scientist, COUNTRY Financial
+### Data Scientist, COUNTRY Financial
 
 Serve in a “player-coach” role, doing data science projects and leading a team of 3 data scientists, at a Fortune 1000 insurance company.
 
@@ -66,7 +66,8 @@ Serve in a “player-coach” role, doing data science projects and leading a te
 - Received feedback: "Well done! You presented yourself as the expert in the room, open and understanding of others’ questions, and everyone walked away with confidence in our teams for moving these capabilities forward."
 - I also presented on Machine Learning at the ITS Hackathon, Analytics Huddle, and Champaign-Urbana Data Science User Group.
 
-#### Data Scientist, State Farm
+
+### Data Scientist, State Farm
 
 Developed machine learning models to improve decisions in Claims and Call Center operations.
 
