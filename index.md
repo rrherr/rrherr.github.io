@@ -10,6 +10,7 @@ I aspire to be a “Banjo Data Scientist”: Person who is better at playing ban
 
 I completed fast.ai Deep Learning Part 1 as an International Fellowship participant, October-December 2017. I was accepted to Part 2, which is March-April 2018.
 
+---
  
 ## Bio 2: for State Farm Data Science Center of Excellence
 
@@ -35,6 +36,7 @@ D3 is generally used to produce a final product, but for more exploratory works-
 
 **I’m interested in applying data science to optimize business operations and influence decision-making.** I would love to serve on a small persistent team embedded in a business area.
 
+---
 
 ## Bio 3: from most recent performance review and resumes
 
@@ -42,24 +44,24 @@ D3 is generally used to produce a final product, but for more exploratory works-
 
 Serve in a “player-coach” role, doing data science projects and leading a team of 3 data scientists, at a Fortune 1000 insurance company.
 
-Billing interim solution
+**Billing interim solution**
 - Billing didn't have a consistent way to determine the value of customers when making service decisions, especially exception requests. And the Billing System Conversion created urgency. They needed an interim solution before the Customer Lifetime Value model could be completed.
 - In January, Billing began to pilot the interim solution I helped develop. The machine learning model was able to replicate supervisor decisions 89% of the time, which is close to the match rate of 92% that the supervisors had with each other.
 - The pilot enabled us to quickly learn and iterate, and reduced time to make decision from 1:42 (supervisor review of factors) to 2 seconds (system generated).
 
-Customer Lifetime Value
+**Customer Lifetime Value**
 - The Billing, OE, and Analytics teams partnered to develop a Customer Lifetime Value model. 
 - CLV uses machine learning to predict retention and calculate future policy value, for each policy in a household, across the customer's projected lifetime. These CLV scores enable customer segmentation for our most valuable households.
 - CLV is in production for 9 billing use cases. Billing reps love how it enables them to make confident, consistent decisions quickly, with fewer escalations and less time spent researching exceptions.
 - Spokane Agency said CLV is "remarkably accurate."
 
-Auto Reunderwriting
+**Auto Reunderwriting**
 - Helped develop Auto Reunderwriting model to replicate non-renewal decisions. Served as both manager and data scientist due to shortage of resources.
 - Began pilot with Missouri in November. Underwriting validated that the model correctly identified 37 "no change" decisions, and only twice mis-identified "intent to non-renew" as "no change." The initial success is encouraging.
 - This technology may enable us to do the same reunderwriting work with only 80% of the effort, freeing up capacity for other activities.
 - Brian James said, "Ryan and his group have been outstanding to work with, truly partnering with our area to make us better. I have been very impressed."
 
-Leadership Council presentation
+**Leadership Council presentation**
 - Designed and delivered executive education on Robotic Process Automation and Machine Learning for Leadership Council. Clarified concepts using simple diagrams and definitions. Documented recent uses in Customer Service / Billing, and future uses in Digital Customer Experience and Life New Business.
 - Received feedback: "Well done! You presented yourself as the expert in the room, open and understanding of others’ questions, and everyone walked away with confidence in our teams for moving these capabilities forward."
 - I also presented on Machine Learning at the ITS Hackathon, Analytics Huddle, and Champaign-Urbana Data Science User Group.
@@ -79,4 +81,3 @@ As an individual contributor:
 - Forecasted call volume in the **Customer Care Center**, to optimize staffing and scheduling and meet service level goals.
 - Automated processing to fix skewed satellite images from **catastrophe claims**, to estimate damages using a deep learning model.
 - Tech skills: **Data visualization** with Python, D3.js, and Excel. **Analytics and statistical modeling** with Python (scikit-learn and pandas). **Big data** with Hadoop and Spark.
-
