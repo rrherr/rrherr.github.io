@@ -4,7 +4,8 @@ Ryan aspires to be a Banjo Data Scientist: better at banjo than statisticians an
 
 ## Talks
 
-Deconstruct 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)
+Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)
+Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://gist.github.com/rrherr/d4436309c31def0945607ff9dd20638b)
 
 ## Contact
 
