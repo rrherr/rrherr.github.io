@@ -5,7 +5,7 @@ Ryan is a data scientist and banjo player from Normal, Illinois. Ever since he f
 ## Talks
 
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
-Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github.io/picasso-geometry-jupyter/)
+Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://www.thestrangeloop.com/2018/picasso-geometry-jupyter.html)
 
 ## Contact
 
