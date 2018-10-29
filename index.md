@@ -2,6 +2,8 @@
 
 Ryan is a data scientist and banjo player from Normal, Illinois. Ever since he first programmed LOGO turtles on an Apple IIe, he’s loved mixing code, math, and art in interactive environments.
 
+Editing this now as an example for Lambda School.
+
 ## Talks
 
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
