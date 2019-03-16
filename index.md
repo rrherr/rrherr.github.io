@@ -1,6 +1,6 @@
 # Ryan Herr
 
-I'm a data scientist and banjo player from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
+I'm a data scientist and [banjo player](https://www.youtube.com/playlist?list=PLAwif0tmlJfUaGjOkqTl5RNJQLJH3798I) from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
 
 ## Projects + Talks
 
