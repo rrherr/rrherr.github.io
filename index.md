@@ -5,7 +5,7 @@ I'm a data scientist and [banjo player](https://www.youtube.com/playlist?list=PL
 ## Projects + Talks
 
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
-Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://www.youtube.com/watch?v=GYJ77F_8kq0)
+Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github.io/picasso)
 
 ## Contact
 
