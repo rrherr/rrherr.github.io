@@ -2,7 +2,7 @@
 
 I'm a data scientist and banjo player from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
 
-## Talks
+## Projects + Talks
 
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
 Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://www.youtube.com/watch?v=GYJ77F_8kq0)
