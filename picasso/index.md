@@ -1,5 +1,9 @@
 ## Picasso's Bulls: Deconstructing his design process with Python
 
+<video autoplay controls loop preload width="100%">
+    <source src="picasso-animation.m4v" type="video/mp4">
+</video>
+
 _[I presented this project at Strange Loop](https://www.youtube.com/watch?v=GYJ77F_8kq0) in September 2018._
 
 In 1945, Picasso created a [series of 11 bulls](https://www.nortonsimon.org/art/search-the-collection/result?keyword=picasso+bull&earliest_year=1945&latest_year=1946). He started by drawing a realistic bull, and then he made it more and more abstract. The bulls fascinate people because we can see his process and follow along step by step.
