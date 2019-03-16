@@ -16,7 +16,4 @@ The tools we create will help us see what choices Picasso made, and why he made 
 
 Picasso found the right abstractions to simplify his work. We aspire to do this, too! Making software can help us understand Picasso, and understanding his process can help us make software. 
 
-- Image diffs, examples: https://twitter.com/rrherr/status/1039910057784303617
-- Animation between states: https://twitter.com/rrherr/status/1045290499123408896
-
 <div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/GYJ77F_8kq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
