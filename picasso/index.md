@@ -1,6 +1,6 @@
 ## Picasso's Bulls: Deconstructing his design process with Python
 
-<video autoplay loop preload width="100%">
+<video autoplay controls loop preload width="100%">
     <source src="picasso-animation.m4v" type="video/mp4">
 </video>
 
