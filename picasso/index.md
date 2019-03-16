@@ -19,4 +19,4 @@ Picasso found the right abstractions to simplify his work. We aspire to do this,
 - Image diffs, examples: https://twitter.com/rrherr/status/1039910057784303617
 - Animation between states: https://twitter.com/rrherr/status/1045290499123408896
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GYJ77F_8kq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/GYJ77F_8kq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
