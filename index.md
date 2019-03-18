@@ -7,7 +7,8 @@ I teach at [Lambda School](https://lambdaschool.com/). I'm interested in how sof
 ## Projects
 
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
-Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github.io/picasso/)
+Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github.io/picasso/)  
+How It Actually Works, March 2019: [Swings are Free](https://www.howitactuallyworks.com/archives/swings_are_free.html)  
 
 ## Contact
 
