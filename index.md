@@ -12,5 +12,6 @@ How It Actually Works, March 2019: [Swings are Free](https://www.howitactuallywo
 
 ## Contact
 
-Twitter: [@rrherr](https://twitter.com/rrherr)  
 Email: [rrherr@gmail.com](mailto:rrherr@gmail.com)
+Twitter: [@rrherr](https://twitter.com/rrherr)  
+[LinkedIn](https://www.linkedin.com/in/ryan-herr-b5a8a77/)
