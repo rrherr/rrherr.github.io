@@ -1,6 +1,6 @@
 # Ryan Herr
 
-I'm a data scientist and [banjo player](https://twitter.com/rrherr/status/1072128383428059136) from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
+I'm a data scientist and [banjo player](https://www.youtube.com/playlist?list=PLAwif0tmlJfUaGjOkqTl5RNJQLJH3798I) from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
 
 I teach at [Lambda School](https://lambdaschool.com/). I'm interested in how software can give creative feedback to help learners practice new skills.
 
