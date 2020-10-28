@@ -4,10 +4,9 @@ I'm a machine learning engineer and [banjo player](https://www.youtube.com/playl
 
 [I teach data science](https://youtu.be/ITypFgnIiRQ) at Lambda School. I'm interested in how software can give creative feedback to help learners practice new skills.
 
-## Projects
+## Talks
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
 Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github.io/picasso/)  
-How It Actually Works, March 2019: [Swings are Free](https://www.howitactuallyworks.com/archives/swings_are_free.html)  
 JupyterCon, October 2020: [After model.fit, before you deploy: Prototype with FastAPI](https://twitter.com/rrherr/status/1296182598138568704)  
 
 ## Contact
