@@ -7,7 +7,7 @@ I'm a machine learning engineer and [banjo player](https://www.youtube.com/playl
 ## Talks
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
 Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github.io/picasso/)  
-JupyterCon, October 2020: [After model.fit, before you deploy: Prototype with FastAPI](https://twitter.com/rrherr/status/1296182598138568704)  
+JupyterCon, October 2020: [After model.fit, before you deploy: Prototype with FastAPI](https://github.com/rrherr/fastapi-jupytercon-2020)  
 
 ## Contact
 [Email](mailto:rrherr@gmail.com) \| [Twitter](https://twitter.com/rrherr) \| [LinkedIn](https://www.linkedin.com/in/ryan-herr-b5a8a77/)  
