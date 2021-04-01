@@ -3,7 +3,7 @@
 I'm a machine learning engineer and [banjo player](https://www.youtube.com/playlist?list=PLAwif0tmlJfUaGjOkqTl5RNJQLJH3798I) from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
 
 I work at [Automattic](https://automattic.com/) building [machine learning pipelines for marketing decisions](https://data.blog/tag/pipe/). Previously, 
-[I taught data science](https://youtu.be/ITypFgnIiRQ) at Lambda School. I'm interested in how software can give creative feedback to help learners practice new skills.
+I [taught data science](https://youtu.be/ITypFgnIiRQ) at Lambda School. I'm interested in how software can give creative feedback to help learners practice new skills.
 
 ## Talks
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
