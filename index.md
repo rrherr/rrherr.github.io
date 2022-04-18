@@ -2,7 +2,7 @@
 
 I'm a machine learning engineer and [banjo player](https://www.youtube.com/playlist?list=PLAwif0tmlJfUaGjOkqTl5RNJQLJH3798I) from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
 
-I work at [Automattic](https://automattic.com/) developing [ML systems for marketing decisions](https://data.blog/tag/pipe/). Previously, 
+I work at [Automattic](https://ryanherr.substack.com/p/new-job-at-automattic) developing [ML systems for marketing decisions](https://data.blog/tag/pipe/). Previously, 
 I was a [data science instructor](https://twitter.com/LambdaSchool/status/1263258335534632960) at Lambda School. I'm interested in how software can give creative feedback to help learners practice new skills.
 
 ## Talks
