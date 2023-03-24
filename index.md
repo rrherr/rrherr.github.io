@@ -11,4 +11,4 @@ Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github
 JupyterCon, October 2020: [After model.fit, before you deploy: Prototype with FastAPI](https://github.com/rrherr/fastapi-jupytercon-2020)  
 
 ## Contact
-[Email](mailto:rrherr@gmail.com) \| [GitHub](https://github.com/rrherr) \| [LinkedIn](https://www.linkedin.com/in/ryan-herr/) \| [Twitter](https://twitter.com/rrherr)
+[Email](mailto:rrherr@gmail.com) \| [GitHub](https://github.com/rrherr) \| [LinkedIn](https://www.linkedin.com/in/ryan-herr/)
